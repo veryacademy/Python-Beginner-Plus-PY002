@@ -7,9 +7,6 @@ Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping 
 ## ***Code Challenge:***
 Given a list of numbers sort the numbers from lowest to highest.
 
-#### **Constraints:**
-- None
-
 ----
 #### **Prerequisites:**
 - Level: Beginner
