@@ -82,7 +82,6 @@ def run_sorting(algorithm, nts):
 
     print(f"Quickest execution time: {min(time)}")
 
-
 def bubbleSort(nts):
 
     nts_len = len(nts)
